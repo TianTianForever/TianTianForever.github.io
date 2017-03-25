@@ -167,10 +167,10 @@ the underlying value of some concrete type that implement &lt;code&gt;Read&lt;/c
     
     <item>
       <title>Rusty Buffers</title>
-      <link>https://wg.github.io/2017/02/rusty-buffers/</link>
+      <link>https://tiantianforever.github.io/2017/02/rusty-buffers/</link>
       <pubDate>Tue, 07 Feb 2017 01:02:03 +0900</pubDate>
       
-      <guid>https://wg.github.io/2017/02/rusty-buffers/</guid>
+      <guid>https://tiantianforever.github.io/2017/02/rusty-buffers/</guid>
       <description>
 
 &lt;p&gt;Rust&amp;rsquo;s ownership system makes it easy and safe to create a zero-copy parser that
@@ -339,10 +339,10 @@ references to its contents.&lt;/p&gt;
     
     <item>
       <title>Rust and Go</title>
-      <link>https://wg.github.io/2017/01/rust-and-go/</link>
+      <link>https://tiantianforever.github.io/2017/01/rust-and-go/</link>
       <pubDate>Fri, 20 Jan 2017 17:27:13 +0900</pubDate>
       
-      <guid>https://wg.github.io/2017/01/rust-and-go/</guid>
+      <guid>https://tiantianforever.github.io/2017/01/rust-and-go/</guid>
       <description>
 
 &lt;p&gt;A new era of statically typed, natively compiled, programming languages has
