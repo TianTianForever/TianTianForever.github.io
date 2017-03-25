@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code</title>
-    <link>https://wg.github.io/index.xml</link>
+    <link>https://tiantianforever.github.io/index.xml</link>
     <description>Recent content on Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Mar 2017 01:02:03 +0900</lastBuildDate>
-    <atom:link href="https://wg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tiantianforever.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rust Pecularities</title>
-      <link>https://wg.github.io/2017/03/rust-pecularities/</link>
+      <link>https://tiantianforever.github.io/2017/03/rust-pecularities/</link>
       <pubDate>Thu, 23 Mar 2017 01:02:03 +0900</pubDate>
       
-      <guid>https://wg.github.io/2017/03/rust-pecularities/</guid>
+      <guid>https://tiantianforever.github.io/2017/03/rust-pecularities/</guid>
       <description>
 
 &lt;p&gt;Rust has a number of interesting aspects that I had some difficulty understanding
